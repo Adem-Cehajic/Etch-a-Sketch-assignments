@@ -1,0 +1,24 @@
+
+*{
+    margin: 0;
+    height: 100%;
+}
+.container {
+    display: flex;
+    margin: 0;
+    background-color: blue;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.top-buttons {
+    height: auto;
+}
+.canvas {
+    display: flex;
+    height: 500px;
+    width: 500px;
+    flex-direction: column;
+}
